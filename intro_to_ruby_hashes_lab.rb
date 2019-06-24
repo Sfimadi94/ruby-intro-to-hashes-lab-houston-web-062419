@@ -4,7 +4,10 @@ def new_hash
 end
 
 def actor
-  actor = {name: "Robert Downey Jr."}
+  actor = {
+    :name => "Robert Downey Jr."
+    
+  }
 
 end
 
